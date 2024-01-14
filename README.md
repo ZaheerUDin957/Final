@@ -87,5 +87,64 @@ Follow these steps to set up and run the AI Automation Project on your local mac
 
 Now you have successfully set up the AI Automation Project on your local machine. Explore the various AI functionalities provided by the project through the user-friendly web interface.
 
+# Data Analytics
+
+## Data Cleaning
+
+### Description of Data Cleaning Tasks
+
+The data cleaning process is a crucial step in preparing the dataset for analysis. In this project, the following data cleaning tasks have been performed:
+
+1. **Handling Missing Values:**
+   - Identify and handle missing values using appropriate techniques such as imputation or removal.
+
+2. **Duplicated Data:**
+   - Check for and remove duplicated entries in the dataset.
+
+3. **Outlier Detection:**
+   - Identify and handle outliers to ensure data integrity.
+
+4. **Data Type Conversion:**
+   - Convert data types of variables to the appropriate format.
+
+## Exploratory Data Analysis (EDA)
+
+### Overview of EDA Methods
+
+Exploratory Data Analysis (EDA) is conducted to summarize and visualize key characteristics of the dataset. The following methods have been employed for EDA:
+
+1. **Statistical Summaries:**
+   - Generate descriptive statistics to understand the central tendency, dispersion, and shape of the dataset.
+
+2. **Correlation Analysis:**
+   - Explore relationships between variables using correlation matrices.
+
+3. **Distribution Analysis:**
+   - Visualize the distribution of individual variables to identify patterns and trends.
+
+4. **Feature Importance:**
+   - Assess the importance of features in predictive modeling.
+
+## Visualization
+
+### Plotly
+
+Plotly is used for interactive and visually appealing visualizations. The project utilizes Plotly to create dynamic charts, graphs, and plots for better data interpretation. The visualizations include:
+
+- Line Charts
+- Scatter Plots
+- Bar Charts
+- Heatmaps
+
+### Matplotlib
+
+Matplotlib is employed for creating static, publication-quality visualizations. The project utilizes Matplotlib to generate a variety of charts and plots, including:
+
+- Line Plots
+- Histograms
+- Box Plots
+- Pie Charts
+
+These visualizations aid in understanding the underlying patterns and trends in the data, providing valuable insights for subsequent modeling tasks.
 
 
