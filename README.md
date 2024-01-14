@@ -30,60 +30,62 @@ The AI Automation Project is a comprehensive solution designed to automate vario
 
 The AI Automation Project aims to empower users with a tool that not only accelerates AI-related tasks but also serves as an educational platform for understanding and experimenting with different AI techniques.
 
+# Getting Started
 
-
-
-Getting Started
-Prerequisites
+## Prerequisites
 Before you begin with the AI Automation Project, ensure that you have the following prerequisites installed on your system:
 
-Python: The project is developed in Python, and you will need a Python interpreter. You can download the latest version of Python from python.org.
+- **Python:** The project is developed in Python, and you will need a Python interpreter. You can download the latest version of Python from [python.org](https://www.python.org/).
 
-Package Dependencies: Install the required Python packages by running the following command in your terminal or command prompt:
+- **Package Dependencies:** Install the required Python packages by running the following command in your terminal or command prompt:
 
-bash
-Copy code
-pip install -r requirements.txt
-This will install all the necessary libraries and dependencies specified in the requirements.txt file.
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-Installation Instructions
+    This will install all the necessary libraries and dependencies specified in the requirements.txt file.
+
+## Installation Instructions
 Follow these steps to set up and run the AI Automation Project on your local machine:
 
-Clone the Repository:
+1. **Clone the Repository:**
+    ```bash
+    git clone https://github.com/your-username/ai-automation-project.git
+    ```
 
-bash
-Copy code
-git clone https://github.com/your-username/ai-automation-project.git
-Navigate to Project Directory:
+2. **Navigate to Project Directory:**
+    ```bash
+    cd ai-automation-project
+    ```
 
-bash
-Copy code
-cd ai-automation-project
-Create a Virtual Environment:
+3. **Create a Virtual Environment:**
+    ```bash
+    python -m venv venv
+    ```
 
-bash
-Copy code
-python -m venv venv
-Activate the Virtual Environment:
+4. **Activate the Virtual Environment:**
+    - On Windows:
+        ```bash
+        .\venv\Scripts\activate
+        ```
+    - On macOS/Linux:
+        ```bash
+        source venv/bin/activate
+        ```
 
-On Windows:
-bash
-Copy code
-.\venv\Scripts\activate
-On macOS/Linux:
-bash
-Copy code
-source venv/bin/activate
-Install Dependencies:
+5. **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Web Application:
+6. **Run the Web Application:**
+    ```bash
+    python app.py
+    ```
 
-bash
-Copy code
-python app.py
-This will start the application, and you can access it by opening your web browser and navigating to http://localhost:5000.
+    This will start the application, and you can access it by opening your web browser and navigating to [http://localhost:5000](http://localhost:5000).
 
 Now you have successfully set up the AI Automation Project on your local machine. Explore the various AI functionalities provided by the project through the user-friendly web interface.
+
+
+
