@@ -1,5 +1,5 @@
-streamlit-option-menu==0.4.1
-python-dotenv==1.0.0
-scipy==1.11.1
-torch==2.0.1
-keras==2.7.0
+streamlit-option-menu
+python-dotenv
+scipy
+torch
+keras
