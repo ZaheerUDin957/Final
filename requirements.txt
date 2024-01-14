@@ -24,7 +24,6 @@ lightgbm
 opencv-python
 nltk
 SpeechRecognition
-pyaudio
 pdfplumber
 python-docx
 googletrans
@@ -37,3 +36,13 @@ hyperopt
 xgboost
 h5py
 statsmodels
+
+
+streamlit-chat
+python-dotenv
+langchain
+openai
+
+streamlit
+llama-index
+nltk
