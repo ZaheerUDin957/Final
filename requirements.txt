@@ -14,7 +14,6 @@ seaborn
 plotly
 Scikit-learn
 TensorFlow
-PyTorch
 XGBoost
 LightGBM
 CatBoost
